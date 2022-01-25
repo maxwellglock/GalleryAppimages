@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260576073521",
+    "project_id": "galeria-motivacion",
+    "storage_bucket": "galeria-motivacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260576073521:android:4beb1176f8431fc8528210",
+        "android_client_info": {
+          "package_name": "com.calfit.galeriaimagenes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260576073521-cpre4d56p4r300fp3jkqcnesgmljc9md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGLNwfwWql_spOE2gG_BHJlB2Lv5K4M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260576073521-cpre4d56p4r300fp3jkqcnesgmljc9md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
